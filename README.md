@@ -1,6 +1,21 @@
 # Анализ температурных данных и мониторинг текущей температуры через OpenWeatherMap API
 
 Ссылка на приложение https://analyzing-temperature-data-tgxp35raryjayy5titdksd.streamlit.app/
+## Стартовая страница
+![image](https://github.com/user-attachments/assets/c89525b9-c444-4b9b-a0a8-d7de50a1ad7e)
+
+## Сезонный профиль
+![image](https://github.com/user-attachments/assets/1e1cf006-273c-44d6-9336-9b2360d80735)
+![image](https://github.com/user-attachments/assets/6decf924-0b70-4ed4-9601-75d578e49f78)
+
+## Усредненная температура по месяцам, проверка аномальности температуры (для доступа к полному функционалу необходим OpenWeatherMap API KEY 
+![image](https://github.com/user-attachments/assets/fb114fe7-c2c0-4103-a17d-a08fabee627e)
+
+## Средняя температура по месяцам за каждый год
+![image](https://github.com/user-attachments/assets/e83eb906-48f0-458b-83cd-ef453f7e629a)
+
+## Динамика по годам (по оси y - сглаживание температуры за 30 дней)
+![image](https://github.com/user-attachments/assets/517ffc01-10ad-4d04-b093-3aff0393478f)
 
 
 ## Описание
